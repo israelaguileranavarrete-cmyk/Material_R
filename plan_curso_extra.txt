@@ -1,0 +1,57 @@
+En nuestro caso podrías comunicarle las necesidades que vemos mas en nuestro proyecto: Borrar duplicados cuando viene datos alfanumericos o alfabeticos (ej. Direcciones de casas), eliminar datos vacios o que se reportan como N.D o como -999999; convertir unidades de forma mas rapida (coordenadas geograficas en UTM- grados minutos y segundos; flujos de agua -LPS-m3/d), devolver respuestas a preguntas de la BDD como: ¿cuál es el punto que muestra el máximo criterio X?¿en que río o territorio se ubica?. Analisis de frecuenca (Categorizar volumenes de residuos por numero de veces que se hace el reporte); hacer Sub-BDD para los datos que si tienen toda la información o según la categoria. Bueno y tengo otras funciones solo para la limpieza de datos. En mi caso, la parte de mapear, preferiria solo enfocarme en la BDD lista para analizarla para estadistica, graficos sencillos, pero quizas yo pueda tomar solo tema 1 y 2? Le podrías preguntar?
+
+
+En nuestro caso podrías comunicarle las necesidades que
+vemos mas en nuestro proyecto: 
+
+
+Borrar duplicados cuando viene datos alfanumericos o
+alfabeticos (ej. Direcciones de casas), eliminar datos vacios o que se reportan
+como N.D o como -999999; convertir unidades de forma mas rapida (coordenadas
+geograficas en UTM- grados minutos y segundos; flujos de agua -LPS-m3/d),
+devolver respuestas a preguntas de la BDD como: ¿cuál es el punto que muestra
+el máximo criterio X?¿en que río o territorio se ubica?. 
+
+
+ 
+
+
+a.      
+Esto se verá en la sección de 2c.- Los Data
+frame
+
+
+ 
+
+
+Analisis de frecuenca (Categorizar volumenes de residuos por
+numero de veces que se hace el reporte); hacer Sub-BDD para los datos que si
+tienen toda la información o según la categoria. Bueno y tengo otras funciones
+solo para la limpieza de datos. 
+
+
+a.      
+               Se
+anexa algo de manejo estadístico.
+
+
+ 
+
+
+En mi caso, la parte de mapear, preferiria solo enfocarme en
+la BDD lista para analizarla para estadistica, graficos sencillos, pero quizas
+yo pueda tomar solo tema 1 y 2? Le podrías preguntar?
+
+
+a.      
+Esto se verá en la sección de 2d.- Gráficos
+sencillos en los ejes XY y 
+
+
+b.      
+2e.- Gráficos complejos en los ejes XY
+
+
+Se anexa algo de esdistica
+
+
