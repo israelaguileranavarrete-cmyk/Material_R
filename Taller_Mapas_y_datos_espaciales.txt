@@ -1,0 +1,42 @@
+Taller de uso y aplicaciones de ingeniería de Datos y ciencia de Datos para Mapas y datos espaciales. 10-12hrs
+1. Introducción y generalidades
+a. Bases de datos.
+b. Ingeniería de datos.
+c. Ciencia de datos.
+d. Bases de datos de mapas.
+2. Introducción a R 
+a. R como una Calculadora
+b. Datos y Gráficos
+c. Los Data frame
+d. Gráficos sencillos en los ejes XY
+i. Función plot
+e. Gráficos complejos en los ejes XY.
+i. Función ggplot2
+ii. Ventajas de R
+iii. Ejemplo de JCR 2024
+iv. Gráficos típicos de estadísticas.
+v. Analizar Bases de datos de textos
+3. Mapas y datos espaciales en R 
+a. Introducción
+i. Datos espaciales: ¿qué son?
+ii. Estructura de datos espaciales
+b. Datos espaciales en R
+i. Características simples en R
+ii. Estructura
+c. Gestión de Datos Espaciales
+i. Modificaciones
+1. Filtrar y seleccionar por unidades geográficas
+2. Generar nuevas unidades con st_union()
+3. Crear nuevos shapefiles con st_write()
+ii. Añade datos de otras bases de datos con left_join()
+d. Mapeo
+i. Generando centroides
+ii. Mapeando variables
+iii. Mapeando puntos
+e. Inferencia a partir de datos espaciales
+i. Indicador local de asociación espacial (LISA, por sus siglas en inglés)
+ii. Matriz de pesos espaciales
+1. El criterio Rook (de la torre)
+2. Criterio Queen (de la Reina)
+3. Criterio k-cercanos (K-nearest)
+iii. I de Moran
